@@ -30,6 +30,9 @@ header .nav{
     margin-left: 20px;
     margin-right: 20px;
 }
+header #burger{
+    display: none;
+}
 header .nav:hover{
     color: #929292;
     cursor: pointer;
